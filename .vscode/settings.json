@@ -1,4 +1,5 @@
 {
     "CodeGPT.temperature": 0.69,
-    "svn.ignoreMissingSvnWarning": true
+    "svn.ignoreMissingSvnWarning": true,
+    "gitConfigUser.selectedProfile": "Techbrain"
 }
